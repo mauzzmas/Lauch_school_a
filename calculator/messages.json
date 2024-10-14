@@ -1,0 +1,13 @@
+{
+	"Greetings":"Hello, are you ready to calculate?!!",
+	"EnterOne":"Please enter first number:",
+	"ErrorOne":"You did not type in an numeric value please try again:",
+	"EnterTwo":"Please enter second number:",
+	"ErrorTwo":"You did not type in an numeric value please type again:",
+	"EnterProc":"Do you want to peform addition, subtraction, division, multiplication, or exponentiation:",
+	"ErrorProc":"You did not type in an valid operation:",
+	"Clarity":"Which number is denominator type either first or second?",
+	"Redo":"If you are done type exit, if not press any key to continue:",
+	"Bye":"Ok good bye!"
+		
+}
