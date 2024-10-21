@@ -1,0 +1,14 @@
+
+{
+	"GetLoan":"Please enter the total loan amount?:",
+	"ErrorMessageOne":"Please enter a valid number, examples of a valid number are 100, 100.00, or $100:",
+	"InterestMessage":"What is your monthly interest rate (APR)?:",
+	"ErrorMessageTwo":"Please enter a valid number, examples of a valid number are 2, 0.23, or 3%:",
+	"DurationMessage":"How long does the loan last please type in either annual or monthly?:",
+	"DurationError":"You did not type in annual or monthly, please re-enter either annual or monthly:",
+	"MonthsMessage": "Please type in amount of months:",
+	"YearsMessage":"Please type in amount of years:",
+	"ErrorMessageThree": "You did not type in an valid number please try again and example of valid number is 1 or 3.2:",
+	"ErrorMessageFour":"You did not type in an valid number please try again!:"
+
+}
